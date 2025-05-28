@@ -25,8 +25,9 @@ Have always wanted to live in the US anyway, the only thing that has kept me in 
 ### Core Competencies
 
 * RAM-only architecture and stealth automation (TOTP, MFA, token workflows)
-* PowerShell 7 / Python automation (privileged execution, GUI control, secure memory usage)
+* PowerShell 5. 1& 7 / Python automation (privileged execution, GUI control, secure memory usage,)
 * Windows internals, bloat removal, hardening, and system security
+* Mac / OSX / PC Win10/11, Linux Ubuntu/Kali.
 * Offensive mindset with defensive application (EDR bypass knowledge, ethical scope)
 * Network stack control (firewall scripting, remote access lockdown, stealth tunneling)
 * Overclocking and thermal/power management expert, been overclocking everything since my first computer.
