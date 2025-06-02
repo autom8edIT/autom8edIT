@@ -31,7 +31,7 @@ Have always wanted to live in the US anyway, the only thing that has kept me in 
 * Offensive mindset with defensive application (EDR bypass knowledge, ethical scope)
 * Network stack control (firewall scripting, remote access lockdown, stealth tunneling)
 * Overclocking and thermal/power management expert, been overclocking everything since my first computer.
-* GitHub/GitOps flow, documentation discipline, automation branding (Autom8ed)
+* GitHub/GitOps flow, Visual Studio 2022, documentation discipline, automation branding (Autom8ed)
 
 ---
 
@@ -41,6 +41,7 @@ Have always wanted to live in the US anyway, the only thing that has kept me in 
 
 &#x20;University – IT Department
 *2021–Present*
+Pre 2021 SysAdmin at Mannheimer Swartling (https://www.mannheimerswartling.se), consultant/SysAdmin at InfoCare working under IBM's banner for AstraZeneca and other big companies, IT-Hantverkarna (small and mid size businesses).
 
 * Solved support cases exceeding the average technician rate
 * Reverse engineered proprietary VPN clients and automated login across all endpoints
