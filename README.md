@@ -10,7 +10,7 @@ Website: [https://autom8ed.it](https://autom8ed.it)
 
 Highly versatile IT systems engineer and infrastructure tactician with over 20 years of experience in high-performance computing, automation, overclocking, and hardcore system customization.
 
-Known internally as "The Machine" for output that exceeds team averages by a factor of 5-10x.
+Known internally as "The Machine" for output that exceeds team averages.
 
 Combines unmatched technical intuition with raw efficiency, enabling elite performance in system hardening, endpoint control, and automation development.
 
