@@ -42,7 +42,7 @@ Have always wanted to live in the US anyway, the only thing that has kept me in 
 &#x20;University – IT Department
 *2021–Present*
 
-* Solved support cases at \~5-10x the average technician rate
+* Solved support cases exceeding the average technician rate
 * Reverse engineered proprietary VPN clients and automated login across all endpoints
 * Replaced manual 2FA workflows with fileless, memory-only Flask-based TOTP microservice
 * Created GUI-driven automation platforms (Autom8ed Toolkit)
