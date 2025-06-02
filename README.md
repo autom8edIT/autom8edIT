@@ -16,7 +16,7 @@ Combines unmatched technical intuition with raw efficiency, enabling elite perfo
 
 Looking to relocate to either Holland or the United States to work on forward-thinking infrastructure, cyber defense, and automation projects that empower Western innovation and digital sovereignty.
 
-Nothing cool happens in Europe anymore - the only thing Europe creates nowadays is new laws  stagnating and many times straight up forbids innovation.
+Not much cool things happens in Europe anymore - The saying US innovates, China replicates and Europe regulates is true. Europe only creates new laws and regulations nowadays that's stagnating and many times straight up forbids innovation.
 
 Have always wanted to live in the US anyway, the only thing that has kept me in Sweden is my family and friends.
 
