@@ -14,11 +14,11 @@ Known as "The Machine" for output that exceeds normal peoples averages.
 
 Combines unmatched technical intuition with raw efficiency, enabling elite performance in system hardening, endpoint control, and automation development.
 
-Looking to relocate to either Holland or the United States to work on forward-thinking infrastructure, cyber defense, and automation projects that empower Western innovation and digital sovereignty.
+Open to relocate to the United States to work on forward-thinking infrastructure, cyber defense, and automation projects that empower Western innovation and digital sovereignty.
 
-Not much cool things happens in Europe anymore - The saying US innovates, China replicates and Europe regulates is true. Europe only creates new laws and regulations nowadays that's stagnating and many times straight up forbids innovation.
+The US innovates, China replicates and Europe regulates. Europe only creates new laws and regulations nowadays that's stagnating and many times straight up forbids innovation.
 
-Have always wanted to live in the US anyway, the only thing that has kept me in Sweden is my family and friends.
+Have always wanted to live in the US, the only thing that has kept me in Sweden is my family and friends.
 
 ---
 
@@ -60,7 +60,7 @@ Pre 2021 SysAdmin at Mannheimer Swartling (https://www.mannheimerswartling.se), 
 * Successfully removed the entire Win11 defense force including all telemetry, Defender, WaaSMedic, Xbox and other Windows 11 root components without detection.
 * Architected a self-healing `.env` and secrets vault into memory for production use
 * Can deploy/run anything stealh injected at boot into encrypted and segmented running undetectable only from the RAM.
-* Dissected and intercepted the entire Cisco VPN client and 2FA system so I can skip the username and password phase and connect direct to end 2FA URL.
+* Dissected and intercepted the entire Cisco VPN client and 2FA system so it can skip the username and password phase and connect direct to end 2FA URL.
 * Created my own ISO building tool and custom Win11 ISO without any bloat or Defense/Telemetry crap.
 * Was part of the team that built the Swdish IRS datacenter.
 ---
