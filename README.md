@@ -1,7 +1,7 @@
 **Joel Larsson**
 Uppsala, Sweden
 Email: [ifully@autom8ed.me](mailto:ifully@autom8ed.me)
-GitHub: [https://github.com/autom8edIT](https://github.com/autom8edTd)
+GitHub: [https://github.com/autom8edIT](https://github.com/autom8edT)
 Website: [https://autom8ed.it](https://autom8ed.it)
 
 ---
@@ -59,7 +59,7 @@ Pre 2021 SysAdmin at Mannheimer Swartling (https://www.mannheimerswartling.se), 
 * Created RAM-only TOTP infrastructure for automatic Cisco VPN Client connection.
 * Made a Chrome Extension for all other TOTP services, if you can use Google Authenticator you can add it to the Chrome extension for automatic instant injection, confirmed to work even on "serious" platforms like Office 365 and PasswordState.
 * Building "Autom8ed.it" – a brand and platform for pushing stealth Windows control into usable GUI automation
-* Successfully removed the entire Win11 Defender including all telemetry, Defender Advanced Threat Protection, WaaSMedic, UsoCoreWorker, Xbox and other Windows 11 root components without detection.
+* Successfully removed the entire Win11 Defender including all telemetry, Defender Advanced Threat Protection, WaaSMedic, UsoCoreWorker, Xbox and other Windows 11 root components without detection. Also locked everything with stub's and ACL's. Billy G can't ever touch my Windows again.
 * Architected a self-healing `.env` and secrets vault into memory for production use
 * Can deploy/run anything stealh injected at boot into encrypted and segmented running undetectable only from the RAM.
 * Dissected and intercepted the entire Cisco VPN client and 2FA system so it can skip the username and password phase and connect direct to end 2FA URL.
@@ -70,15 +70,16 @@ Pre 2021 SysAdmin at Mannheimer Swartling (https://www.mannheimerswartling.se), 
 ### Technology Arsenal
 
 * **Languages:** PowerShell 5&7, Python 3x, C#, HTML/CSS/JS, JSON
-* **Tools:** Sysinternals Suite, PowerRun, KDU, WinDBG, Resource Hacker, Hyper-V, VMware, pyotp, Flask, SimpleWall
+* **Tools:** VStudio, VSCode, Sysinternals Suite, PowerRun, PrivExec, KDU, WinDBG, Resource Hacker, Hyper-V, VMware, pyotp, Flask, SimpleWall
 * AI expert at ChatGPT, CoPilot and Claude
 * **Environments:** Windows 10/11, Linux, macOS, Hyper-V, GitHub Actions, Secure endpoints (AAD/Intune) 
-* **Hardware:** Prefer Intel CPUs (max overclocked), DDR5 tuning, custom thermal solutions but I can help you with getting the best flash memory, an enterprise router or a GPU cluster, I basically know all hardware available. Except AMD, the only product they offer of interest is ThreadRipper.
+* **Hardware:** Prefer Intel CPUs (obviously max overclocked), DDR5 tuning, custom thermal solutions, but I can help you with getting the best flash memory, an enterprise router or a GPU cluster, I basically know all hardware available. Except AMD, the only product they offer of interest is ThreadRipper.
 * **Specials:** Self-signed cert spoofing, silent deployment builders, GUI-injected auto-login agents and manipulated Powershell security files to give me System / NT Installer permissions whenever needed.
 * Exploting task scheduler to run as Trusted Installer/System at boot to change the default access control lists and take ownership over what ever needed to delete or lock down a file folder, registery key.
 * Making a map over MS new OS structure and ISO deployment. As an example System32 is basically a decoy now, WinSxS and Servicing/migration is the King & Queen folders of Win11.
 * If ([System.Security.Principal.WindowsIdentity]::GetCurrent()).Groups | Where-Object { $_.Translate([System.Security.Principal.NTAccount]).Value -match "TrustedInstaller" } is not returning S-1-5-80-956008885 what are you even doing?
 * If your ExecutionPolicy -List isn't returning MachinePolicy = Unrestricted, how are you ever going to be on top when all your scripts are stopped from executing?
+* 
 ---
 
 ### Personal
