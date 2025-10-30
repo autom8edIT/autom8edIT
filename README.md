@@ -55,7 +55,6 @@ Pre 2021 SysAdmin at Mannheimer Swartling (https://www.mannheimerswartling.se), 
 
 ### Key Achievements
 
-* Developed one of the highest-overclocked 14900K systems in Sweden (6.4GHz all-core stable with only a LF2 420 AIO and a SP98 chip)
 * Created RAM-only TOTP infrastructure for automatic Cisco VPN Client connection.
 * Made a Chrome Extension for all other TOTP services, if you can use Google Authenticator you can add it to the Chrome extension for automatic instant injection, confirmed to work even on "serious" platforms like Office 365 and PasswordState.
 * Building "Autom8ed.it" – a brand and platform for pushing stealth Windows control into usable GUI automation
