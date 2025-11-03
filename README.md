@@ -78,7 +78,6 @@ Pre 2021 SysAdmin at Mannheimer Swartling (https://www.mannheimerswartling.se), 
 * Making a map over MS new OS structure and ISO deployment. As an example System32 is basically a decoy now, WinSxS and Servicing/migration is the King & Queen folders of Win11.
 * If ([System.Security.Principal.WindowsIdentity]::GetCurrent()).Groups | Where-Object { $_.Translate([System.Security.Principal.NTAccount]).Value -match "TrustedInstaller" } is not returning S-1-5-80-956008885 what are you even doing?
 * If your ExecutionPolicy -List isn't returning MachinePolicy = Unrestricted, how are you ever going to be on top when all your scripts are stopped from executing?
-* 
 ---
 
 ### Personal
