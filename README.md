@@ -8,6 +8,11 @@ Website: [https://autom8ed.it](https://autom8ed.it)
 
 ### Executive Summary
 
+The Kernel Ghost Manifesto:
+"I don't know who wrote this firmware. I don't know why you put the NIC on a USB bridge. If you are looking for a standard RMA, I can tell you I don't have patience for that.
+But what I do have are a very particular set of skills. Skills I have acquired over a 20-year career. Skills that make me a nightmare for lazy engineers like you.
+If you provide a clean direct-CPU lane now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will find your interrupt storm, I will trace your DPC spike, and I will kill your latency."
+
 Highly versatile IT systems engineer and infrastructure tactician with over 20 years of experience in high-performance computing, automation, overclocking, and hardcore system customization.
 
 Known as "The Machine" for focus, output and endurance that exceeds most people.
@@ -27,7 +32,7 @@ Have always wanted to live in the US, the only thing that has kept me in Sweden 
 * RAM-only architecture and stealth automation (TOTP, MFA, token workflows, apps, scripts, you name it, I'll run it)
 * PowerShell 5 & 7+ / Python automation (privileged execution, GUI control, secure memory usage, uninstalling, configuring etc.)
 * Windows internals, bloat removal, hardening, and system security
-* Mac / PC Win10/11, Linux Ubuntu/Kali.
+* Mac / PC Win10/11, Linux Debian/ Ubuntu / Kali.
 * Offensive mindset with defensive application (EDR bypass knowledge, ethical scope)
 * Network stack control (firewall scripting, remote access lockdown, stealth tunneling)
 * Overclocking and thermal/power management expert, been overclocking everything since my first computer.
@@ -70,7 +75,7 @@ Pre 2021 SysAdmin at Mannheimer Swartling (https://www.mannheimerswartling.se), 
 
 * **Languages:** PowerShell 5&7, Python 3x, C#, HTML/CSS/JS, JSON
 * **Tools:** VStudio, VSCode, Sysinternals Suite, PowerRun, PrivExec, KDU, WinDBG, Resource Hacker, Hyper-V, VMware, pyotp, Flask, SimpleWall
-* AI expert at ChatGPT, CoPilot and Claude
+* AI expert at Gemini, GROK, Claude, ChatGPT and CoPilot.
 * **Environments:** Windows 10/11, Linux, macOS, Hyper-V, GitHub Actions, Secure endpoints (AAD/Intune) 
 * **Hardware:** Prefer Intel CPUs (obviously max overclocked), DDR5 tuning, custom thermal solutions, but I can help you with getting the best flash memory, an enterprise router or a GPU cluster, I basically know all hardware available. Except AMD, the only product they offer of interest is ThreadRipper.
 * **Specials:** Self-signed cert spoofing, silent deployment builders, GUI-injected auto-login agents and manipulated Powershell security files to give me System / NT Installer permissions whenever needed.
