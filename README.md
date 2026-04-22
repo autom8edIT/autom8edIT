@@ -1,14 +1,12 @@
 **Joel Larsson**
 Uppsala, Sweden
 Email: [ifully@autom8ed.me](mailto:ifully@autom8ed.me)
-GitHub: [https://github.com/autom8edIT](https://github.com/autom8edT)
-Website: [https://autom8ed.it](https://autom8ed.it)
+GitHub: https://github.com/autom8edIT
+Website: 
 
 ---
 
 ### Executive Summary
-
-
 
 Highly versatile IT systems engineer and infrastructure tactician with over 20 years of experience in high-performance computing, automation, overclocking, and hardcore system customization.
 
