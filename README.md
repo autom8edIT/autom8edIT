@@ -41,14 +41,15 @@ Open to relocate to the United States to work on forward-thinking infrastructure
 &#x20;University – IT Department
 *2021–Present*
 
-* Pre 2021 SysAdmin at Mannheimer Swartling (https://www.mannheimerswartling.se) *
+* Pre 2021 SysAdmin at Mannheimer Swartling (https://www.mannheimerswartling.se)
 
-* CTO at Addus Law, a small law firm where I got to choose / decide everything. *
+* CTO at Addus Law, a small law firm where I got to choose / decide everything.
+
 Was the only non lawyer in the company so I got to determine and pick their entire IT environment. Which computers, law document handling system, if they should lease anything exceot for an MFP and so on.
 Then install and configure everything from the LAN and WIFI at the office and setup VPN and M365 so they could work seamlessly together no matter location and device.
 If something of any kind didn't work I solved it no matter if it was their OS, device, password etc. that was the root cause.
 
-* SysAdm at CVO, a company that focused on helping people with mental annd often physical disabilites.*
+* SysAdm at CVO, a company that focused on helping people with mental annd often physical disabilites.
 
 So they had no IT-department before I started working there and began the huge task of setting up a functionining environment.
 It included everything from helping them select and use laptops that wasn't just bought randomly from Elgiganten or similar.
@@ -61,12 +62,13 @@ Also consolidated their services like using a single ISP for better price and co
 Unfortunately they got aquired by a larger group of companies that specified in aquiring healthcare companies to build a conglorarate.
 But that meant that I was no longer in charge of IT, they hade their own, so I moved on.
 
-* IT-Hantverkarna (IT-department as a service for small and mid size businesses). *
+* IT-Hantverkarna (IT-department as a service for small and mid size businesses).
 
 Anything from setting up a small business server to fullscale domain with AD and VPN serverices between their different office's so they could reach their systems from anywhere.
 Basically same as I did at InfoCare but with a bit smaller companies and instead of consulting for a set amount of time I was their entire IT-department. Linux web server (Apache) was a recurring thing.
 
-* Consultant/SysAdmin at InfoCare working under IBM's banner for AstraZeneca and other big companies. *
+* Consultant/SysAdmin at InfoCare working under IBM's banner for AstraZeneca and other big companies.
+
 I did everything from repairing laptops, printers to assist migrations/mergers like when Arla merged with Denmark they used Lotus Notes so I made sure that everything got exported and saved.
 Part of the team that built the Swedish IRS datacenter.
 
