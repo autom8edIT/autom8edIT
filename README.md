@@ -24,7 +24,7 @@ Open to relocate to the United States to work on forward-thinking infrastructure
 * Web code, my MFA extension is made from JS, HTML and CSS.
 * Basic C/C++ for using WinDBG, compile and build things from repos that isn't complete.
 * Windows internals, bloat removal, hardening, and system security
-* Mac / PC Win10/11, Linux Debian / Ubuntu / Kali.
+* Mac / PC Win10/11, Linux / Apache.
 * Enterprise environments like Windows domain/AD/M365 administration.
 * Offensive mindset with defensive application (EDR bypass knowledge, ethical scope)
 * Network stack control (firewall scripting, remote access lockdown, stealth tunneling) and setup of routers and AP's, VLAN rules and so on.
