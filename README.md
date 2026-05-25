@@ -1,19 +1,16 @@
-**Joel Larsson**
-Uppsala, Sweden
-Email: [ifully@autom8ed.me](mailto:ifully@autom8ed.me)
-GitHub: https://github.com/autom8edIT
-
----
-
 ### Executive Summary
 
 Highly versatile IT systems engineer and infrastructure tactician with over 20 years of experience in high-performance computing, automation, overclocking, and hardcore system customization.
 
-Known as "The Machine" for focus, output and endurance that exceeds most people.
+Known as "The Machine" for focus, output and endurance that exceeds most people. Like Google's entire Gemini team which took me 5min to identify why the authentication for consumer accounts where and still are broken. 
 
 Combines unmatched technical intuition with raw efficiency, enabling elite performance in system hardening, endpoint control, and automation development.
 
-Open to relocate to the United States to work on forward-thinking infrastructure, cyber defense, and automation projects that empower Western innovation and digital sovereignty.
+Current top 3 bozo companies rank:
+
+1. ASUS = This is not just a bunch of noobs, these are next level retards.
+2. MSI - These tards will always place in top of my list of shit. Like their BIOS for Intel 13/14th gen, that every boot sent 1.6V into your poor CPU even after microcode 129 in theory set 1.55V max MSI still found a way. 
+3. Google except for their backend and AI devs mostly clueless people. Can't even fix simple stuff even when you give them the entire chain from problem to solution in a step by step guide.
 
 ---
 
@@ -28,7 +25,7 @@ Open to relocate to the United States to work on forward-thinking infrastructure
 * Enterprise environments like Windows domain/AD/M365 administration.
 * Offensive mindset with defensive application (EDR bypass knowledge, ethical scope)
 * Network stack control (firewall scripting, remote access lockdown, stealth tunneling) and setup of routers and AP's, VLAN rules and so on.
-* TeamViewer, RustDesk.
+* TeamViewer, RustDesk, AnyDesk, SSH, Pwsh, some way I'm going to reach you what ever protocol or port.
 * Overclocking and thermal/power management expert, been overclocking everything since my first computer.
 * GitHub/GitOps flow, Visual Studio 2022/2026, VS Code, documentation discipline, automation branding (Autom8ed)
 
