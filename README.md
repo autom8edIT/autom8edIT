@@ -6,6 +6,8 @@ Known as "The Machine" for focus, output and endurance that exceeds most people.
 
 Combines unmatched technical intuition with raw efficiency, enabling elite performance in system hardening, endpoint control, and automation development.
 
+Currently helping MS get their Intelligent.Terminal working so I maybe see the day I leave conhost before I die lol!
+
 Current top 3 bozo companies rank:
 
 1. ASUS = This is not just a bunch of noobs, these are next level retards.
