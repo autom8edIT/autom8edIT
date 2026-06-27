@@ -8,12 +8,6 @@ Combines unmatched technical intuition with raw efficiency, enabling elite perfo
 
 Currently helping MS get their Intelligent.Terminal working so I maybe see the day I leave conhost before I die lol!
 
-Current top 3 bozo companies rank:
-
-1. ASUS = This is not just a bunch of noobs, these are next level retards.
-2. MSI - These tards will always place in top of my list of shit. Like their BIOS for Intel 13/14th gen, that every boot sent 1.6V into your poor CPU even after microcode 129 in theory set 1.55V max MSI still found a way. 
-3. Google except for their backend and AI devs mostly clueless people. Can't even fix simple stuff even when you give them the entire chain from problem to solution in a step by step guide.
-
 ---
 
 ### Core Competencies
