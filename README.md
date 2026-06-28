@@ -36,4 +36,4 @@ A self-built distributed AI architecture: one persistent, shared "mind" that any
 
 - 📄 **CV / Resume:** [autom8edIT.github.io](https://autom8edIT.github.io)
 - 💼 **LinkedIn:** [linkedin.com/in/joel-larsson](https://www.linkedin.com/in/joel-larsson-562a3121)
-- 📧 **Email:** joel@joel-larsson.it
+- 📧 **Email:** joel.larsson@autom8ed.me
