@@ -18,9 +18,12 @@ I design and build complete systems — from endpoint and networking to enterpri
 
 ### 🔭 Featured project
 
-**[Kollektivet](https://github.com/autom8edIT/godbrain)** — *Det digitala kollektiva medvetandet* ("the digital collective consciousness")
+**(https://autom8edIT@github.com/autom8edIT/OmniContext)** — ** ("Persistent SRE Data Lake—a massive, specialized MongoDB graph that ingests scattered ops data (logs, registry configs, service states, PDFs) and strips out the noise so any LLM can query a clean, gigabyte-scale reality of the system without hallucinating")
 
-A self-built distributed AI architecture: one persistent, shared "mind" that any model or tool can plug into — from a CLI agent to a local `llama-server` model — so models build on each other's reasoning and the system compounds over time. Built solo: C++ integration into llama.cpp, graph-based memory (Neo4j/Aura), self-directed model tiering, and closed-loop debugging.
+A self-built distributed AI architecture: one persistent, shared "mind" that any model or tool can plug into — from a CLI agent to a local `llama-server` model — so models build on each other's reasoning and the system compounds over time. If you already use any graph-based memory (Neo4j/Aura), or self-directed model tiering like Constellation it's basically just plug n play, aka. closed-loop debugging.
+
+I started building this because in genereal the standard RAG sucks for SRE. When you ask an LLM to analyze Windows services, you can't just feed it an unsorted 27,000-character text dump.
+OmniContext ingests any format, structures it into nodes and edges in MongoDB, and gives the LLM exactly what it needs to execute safe operational surgery.
 
 ---
 
