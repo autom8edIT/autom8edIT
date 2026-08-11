@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://github.com/autom8edIT" />
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>If you are not redirected automatically, follow this <a href="https://github.com/autom8edIT">link</a>.</p>
+ 
 # Joel Larsson
 
 ### Solutions Architect · Infrastructure &amp; Applied AI
@@ -40,3 +49,5 @@ OmniContext ingests any format, structures it into nodes and edges in MongoDB, a
 - 📄 **CV / Resume:** [autom8edIT.github.io](https://autom8edIT.github.io)
 - 💼 **LinkedIn:** [linkedin.com/in/joel-larsson](https://www.linkedin.com/in/joel-larsson-562a3121)
 - 📧 **Email:** joel.larsson@autom8ed.me
+ </body>
+</html>
