@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta http-equiv="refresh" content="0; url=https://github.com/autom8edIT" />
-    <title>Redirecting...</title>
+    <title>About me</title>
   </head>
   <body>
     <p>If you are not redirected automatically, follow this <a href="https://github.com/autom8edIT">link</a>.</p>
