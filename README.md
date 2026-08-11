@@ -10,7 +10,7 @@ I design and build complete systems — from endpoint and networking to enterpri
 
 ### 🛠️ What I work with
 
-- **Architecture &amp; Infrastructure** — end-to-end systems · networking · Active Directory / M365 · Linux / Apache · performance &amp; hardware tuning
+- **Architecture &amp; Infrastructure** — end-to-end systems · networking · Active Directory / M365 · Linux / Apache / macOS /  performance &amp; hardware tuning
 - **Applied AI** — local LLMs · multi-model orchestration · persistent-memory architectures
 - **Engineering** — PowerShell · Python · C/C++ · automation · Windows internals
 
