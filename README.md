@@ -34,10 +34,10 @@ SuperGrok. I test them against real repositories, infrastructure investigations,
 tool use, long-context work, and verifier-backed implementation rather than
 judging them only through isolated chat prompts.
 
-That experience feeds directly into GodBrain: an operator-controlled system with
-its own local interface, tool protocol, knowledge boundary, and verification
-loop. The goal is to make the operational workflow independent of any particular
-paid CLI, GUI, model vendor, or inference engine.
+That experience feeds into two related systems: GodBrain is the Windows research
+lab, while SREBrain is the clean, professional implementation of the portable
+SRE contract. The goal is to make the operational workflow independent of any
+particular paid CLI, GUI, model vendor, or inference engine.
 
 My default working environment is the command line: PowerShell and Bash, Git,
 APIs, compilers, tests, and repeatable scripts. I use graphical tools when the
@@ -45,10 +45,25 @@ visual state is itself useful evidence, not as a substitute for automation.
 
 ## Featured engineering work
 
-### [GodBrain](https://github.com/usrname1git/GodBrain)
+### [SREBrain](https://github.com/autom8edIT/SREBrain)
 
-A Windows-first, local SRE agent and automation system built around a native C++
-control kernel.
+A platform- and model-agnostic project built to create the ultimate SRE agent,
+with "ultimate" defined as a public set of verifiable engineering criteria.
+
+- Implements a shared Go contract for diagnosis, planning, application, rollback,
+  and evidence.
+- Ships fixed read-only diagnostic catalogs for Windows and Linux.
+- Executes no user- or model-generated shell commands.
+- Produces timestamped SHA-256 evidence receipts.
+- Keeps all mutation disabled until an action has an allowlist entry, verifier,
+  rollback path, and failure tests.
+- Builds and tests on both Windows and Linux.
+
+### [GodBrain research lab](https://github.com/usrname1git/GodBrain)
+
+A Windows-first local automation lab built around a native C++ control kernel.
+It is where the deeper closed-loop runtime, local model integration, knowledge
+boundary, and host-specific experiments are developed.
 
 - Runs an explicit `discover -> plan -> execute -> verify` loop.
 - Keeps model output behind policy and authorization boundaries.
@@ -56,14 +71,14 @@ control kernel.
   operational knowledge.
 - Exposes bounded diagnostics, host telemetry, audit history, rollback-aware local
   edits, and allowlisted remediation.
-- Treats the language model as a replaceable reasoning component, not as the
+- Treats the language model as a replaceable reasoning component rather than the
   security boundary.
 
 ### [OmniContext](https://github.com/autom8edIT/OmniContext)
 
-The architecture case study that preceded GodBrain. It documents the move from a
-shared-memory prototype to a safer SRE design with explicit trust boundaries,
-provenance, verification, and controlled execution.
+The architecture case study that preceded GodBrain and SREBrain. It documents
+the move from a shared-memory prototype to safer systems with explicit trust
+boundaries, provenance, verification, and controlled execution.
 
 ## Selected professional evidence
 
