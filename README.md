@@ -21,10 +21,27 @@ Based in Sweden. Open to global remote and contract opportunities.
 | Operating systems | Windows internals, Windows Server, Linux, macOS, endpoint engineering |
 | Networking | DNS, DHCP, routing, switching, VLANs, VPN, Wi-Fi, client connectivity |
 | Identity and enterprise | Active Directory, Microsoft 365, Entra ID, Intune, PKI |
-| Automation | PowerShell, Python, C/C++, Go, Rust, scripting and operational tooling |
+| Automation | PowerShell, Bash, Python, C/C++, Go, Rust, scripting and operational tooling |
 | Reliability | Root-cause analysis, incident response, observability, recovery and verification |
 | Infrastructure | VMware, Hyper-V, servers, storage, deployment and hardware diagnostics |
-| Applied AI | Local LLMs, retrieval, tool execution, persistent operational knowledge |
+| Applied AI | Local and hosted LLM evaluation, retrieval, tool execution, persistent operational knowledge |
+
+## AI engineering practice
+
+I have used ChatGPT since its public launch and continuously evaluate newly
+released open-weight models from Hugging Face alongside GitHub Copilot Max and
+SuperGrok. I test them against real repositories, infrastructure investigations,
+tool use, long-context work, and verifier-backed implementation rather than
+judging them only through isolated chat prompts.
+
+That experience feeds directly into GodBrain: an operator-controlled system with
+its own local interface, tool protocol, knowledge boundary, and verification
+loop. The goal is to make the operational workflow independent of any particular
+paid CLI, GUI, model vendor, or inference engine.
+
+My default working environment is the command line: PowerShell and Bash, Git,
+APIs, compilers, tests, and repeatable scripts. I use graphical tools when the
+visual state is itself useful evidence, not as a substitute for automation.
 
 ## Featured engineering work
 
