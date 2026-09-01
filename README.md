@@ -1,53 +1,68 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=https://github.com/autom8edIT" />
-    <title>About me</title>
-  </head>
-  <body>
-    <p>If you are not redirected automatically, follow this <a href="https://github.com/autom8edIT">link</a>.</p>
- 
 # Joel Larsson
 
-### Solutions Architect · Infrastructure &amp; Applied AI
+## Senior SRE and Infrastructure Automation Engineer
 
-I design and build complete systems — from endpoint and networking to enterprise infrastructure, and now autonomous AI architectures. 18+ years of experience spanning IBM/AstraZeneca-scale consulting, full IT ownership as a CTO, and hands-on systems administration across the legal, healthcare and research sectors.
+I build and troubleshoot infrastructure across the full stack: endpoint, identity,
+network, operating system, automation, and the operational tooling around it.
 
-📍 Sweden · 🌐 Open to remote · 💬 Swedish / English
+I have nearly 20 years of professional IT experience across enterprise consulting,
+legal, healthcare, research, and managed services. My background spans Windows,
+Linux, macOS, Active Directory, networking, hardware, and production automation.
+My current focus is closed-loop SRE:
 
----
+> detect -> diagnose -> remediate safely -> verify
 
-### 🛠️ What I work with
+Based in Sweden. Open to global remote and contract opportunities.
 
-- **Architecture &amp; Infrastructure** — end-to-end systems · networking · Active Directory / M365 · Linux / Apache / macOS /  performance &amp; hardware tuning
-- **Applied AI** — local LLMs · multi-model orchestration · persistent-memory architectures
-- **Engineering** — PowerShell · Python · C/C++ · automation · Windows internals
+## Core strengths
 
----
+| Area | Experience |
+|---|---|
+| Operating systems | Windows internals, Windows Server, Linux, macOS, endpoint engineering |
+| Networking | DNS, DHCP, routing, switching, VLANs, VPN, Wi-Fi, client connectivity |
+| Identity and enterprise | Active Directory, Microsoft 365, Entra ID, Intune, PKI |
+| Automation | PowerShell, Python, C/C++, Go, Rust, scripting and operational tooling |
+| Reliability | Root-cause analysis, incident response, observability, recovery and verification |
+| Infrastructure | VMware, Hyper-V, servers, storage, deployment and hardware diagnostics |
+| Applied AI | Local LLMs, retrieval, tool execution, persistent operational knowledge |
 
-### 🔭 Featured project
+## Featured engineering work
 
-**(https://autom8edIT@github.com/autom8edIT/OmniContext)** — ** ("Persistent SRE Data Lake—a massive, specialized MongoDB graph that ingests scattered ops data (logs, registry configs, service states, PDFs) and strips out the noise so any LLM can query a clean, gigabyte-scale reality of the system without hallucinating")
+### [GodBrain](https://github.com/usrname1git/GodBrain)
 
-A self-built distributed AI architecture: one persistent, shared "mind" that any model or tool can plug into — from a CLI agent to a local `llama-server` model — so models build on each other's reasoning and the system compounds over time. If you already use any graph-based memory (Neo4j/Aura), or self-directed model tiering like Constellation it's basically just plug n play, aka. closed-loop debugging.
+A Windows-first, local SRE agent and automation system built around a native C++
+control kernel.
 
-I started building this because in genereal the standard RAG sucks for SRE. When you ask an LLM to analyze Windows services, you can't just feed it an unsorted 27,000-character text dump.
-OmniContext ingests any format, structures it into nodes and edges in MongoDB, and gives the LLM exactly what it needs to execute safe operational surgery.
+- Runs an explicit `discover -> plan -> execute -> verify` loop.
+- Keeps model output behind policy and authorization boundaries.
+- Uses a Go ingestion and retrieval layer with immutable sources and reviewed
+  operational knowledge.
+- Exposes bounded diagnostics, host telemetry, audit history, rollback-aware local
+  edits, and allowlisted remediation.
+- Treats the language model as a replaceable reasoning component, not as the
+  security boundary.
 
----
+### [OmniContext](https://github.com/autom8edIT/OmniContext)
 
-### 🏆 Recognition
+The architecture case study that preceded GodBrain. It documents the move from a
+shared-memory prototype to a safer SRE design with explicit trust boundaries,
+provenance, verification, and controlled execution.
 
-- Public fix accepted to Microsoft's `intelligent-terminal` (#328)
-- Published Chrome extension (TOTP / MFA)
-- Contributor to llama.cpp-based tooling
+## Selected professional evidence
 
----
+- Led 20-30 technicians during an enterprise Windows migration for AstraZeneca in
+  an IBM-led delivery environment.
+- Participated in infrastructure work for a Swedish Tax Agency data-center project.
+- Built complete Windows domains, networks, VPNs, Wi-Fi, servers, and endpoint
+  environments for small and medium-sized organizations.
+- Owned IT strategy and operations as the sole technical decision-maker for a law
+  firm.
+- Filed a detailed
+  [Microsoft Intelligent Terminal bug report](https://github.com/microsoft/intelligent-terminal/issues/328)
+  that the project team acknowledged as a priority defect.
 
-### 📫 Get in touch
+## Contact
 
-- 📄 **CV / Resume:** [autom8edIT.github.io](https://autom8edIT.github.io)
-- 💼 **LinkedIn:** [linkedin.com/in/joel-larsson](https://www.linkedin.com/in/joel-larsson-562a3121)
-- 📧 **Email:** joel.larsson@autom8ed.me
- </body>
-</html>
+- Portfolio: [autom8ed.it](https://autom8ed.it)
+- LinkedIn: [linkedin.com/in/joel-larsson](https://www.linkedin.com/in/joel-larsson-562a3121)
+- Email: [joel.larsson@autom8ed.me](mailto:joel.larsson@autom8ed.me)
