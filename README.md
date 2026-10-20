@@ -95,6 +95,6 @@ boundaries, provenance, verification, and controlled execution.
 
 ## Contact
 
-- Portfolio: [autom8ed.it](https://autom8ed.it)
+- Portfolio: [autom8ed.it](https://autom8ed.me)
 - LinkedIn: [linkedin.com/in/joel-larsson](https://www.linkedin.com/in/joel-larsson-562a3121)
 - Email: [joel.larsson@autom8ed.me](mailto:joel.larsson@autom8ed.me)
